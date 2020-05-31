@@ -1,2 +1,2 @@
 # Terraform
-Terraform Automatization of RedHat VM's
+Terraform Automatization of RedHat VM's using AWS EC2.
